@@ -1,3 +1,3 @@
 # Invoice
 
-Invoice project.
+A static website published with GitHub Pages.
